@@ -2,7 +2,7 @@ import copy
 import sys
 import pygame
 import Screen
-import tim
+import time
 
 from holes import create_holes
 # from game import screen
